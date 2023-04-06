@@ -1,0 +1,4 @@
+*.json
+*.plist
+
+firebase_options.dart
